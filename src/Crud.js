@@ -14,7 +14,7 @@ function Crud() {
     const list = [
         {
             id: 1,
-            name: 'Ansari'
+            name: 'Prashanth'
         }
     ]
     const [lists, setList] = useState(list)
